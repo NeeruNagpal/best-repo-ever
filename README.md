@@ -8,4 +8,3 @@ This line was added from the branch myfeaturebranch.
 This line was added from the branch new-branch-2.
 
 
-Testing Merge Conflicts
